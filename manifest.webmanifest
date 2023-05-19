@@ -1,0 +1,12 @@
+{
+  "name": "science_project_arti_ecos",
+  "short_name": "science_project_arti_ecos",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
